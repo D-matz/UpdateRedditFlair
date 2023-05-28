@@ -1,0 +1,2 @@
+praw
+azure.data.tables
